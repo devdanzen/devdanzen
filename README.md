@@ -46,7 +46,6 @@ A passionate Full Stack Developer with a strong commitment to software engineeri
 #### Backend
 [![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=52B0E7)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
@@ -70,6 +69,7 @@ A passionate Full Stack Developer with a strong commitment to software engineeri
 #### Wishlists
 [![DSA](https://img.shields.io/badge/-Data_Structures_&_Algorithms-0077B5?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=orange)](#)
 [![System Design](https://img.shields.io/badge/-System_Design-FF8800?style=for-the-badge&labelColor=black&logo=databricks&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
 [![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&labelColor=black&logo=greensock&logoColor=88CE02)](#)
 [![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&labelColor=black&logo=d3dotjs&logoColor=F9A03C)](#)
 [![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-white?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
