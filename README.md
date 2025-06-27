@@ -30,7 +30,7 @@ A passionate Full Stack Developer with a strong commitment to software engineeri
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Danish Rafie Al Rasyad profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/devdanzen)
+[![Danish Rafie Al Rasyad profile views](https://u8views.com/api/v1/github/profiles/105960343/views/day-week-month-total-count.svg)](https://u8views.com/github/devdanzen)
 
 
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
