@@ -10,6 +10,23 @@ A passionate Full Stack Developer with a strong commitment to software engineeri
 [![Mail Badge](https://img.shields.io/badge/-@Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/devdanzen/) 
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:daniz.rafidz@gmail.com)
 
+<br/>
+
+### Business
+- :paperclip: [My Portfolio/Web](https://devdanzen.vercel.app/)
+- :email: daniz.rafidz@gmail.com
+
+<br/>
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Danish's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devdanzen&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanzen&layout=compact&&langs_count=8"/>
+</div>
+
+### Technologies Stack
+
 #### Frontend
 [![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
@@ -69,19 +86,6 @@ A passionate Full Stack Developer with a strong commitment to software engineeri
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 
 <br/>
-
-### Business
-- :paperclip: [My Portfolio/Web](https://devdanzen.vercel.app/)
-- :email: daniz.rafidz@gmail.com
-
-<br/>
-
-### My stats ⭐
-
-<div align="center">
-<img alt="Danish's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devdanzen&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanzen&layout=compact&&langs_count=8"/>
-</div>
 
 ### Profile views counter 👁️‍🗨️
 [![Danish Rafie Al Rasyad profile views](https://u8views.com/api/v1/github/profiles/105960343/views/day-week-month-total-count.svg)](https://u8views.com/github/devdanzen)
